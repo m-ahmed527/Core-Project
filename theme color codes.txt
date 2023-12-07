@@ -1,0 +1,4 @@
+dark orange: cb8d31
+light orange: eaa636
+black : 111111
+black and white
